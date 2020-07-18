@@ -4,7 +4,7 @@
     Script that collects Azure advisory report from all Subscriptions.
  - .DESCRIPTION
     The script collect all the Azure Advisor report from all the subscription which are permitted with your account.
-    /nThe following files will be created:
+The following files will be created:
      - AdvisoryReport.json
      - AdvisoryReport.csv
  - .NOTES
